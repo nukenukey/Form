@@ -1,0 +1,5 @@
+string greet = "hello, world!"
+fun main()
+  println(greet)
+  exit 0
+/
